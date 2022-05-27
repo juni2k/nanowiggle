@@ -1,5 +1,7 @@
 # Nanowiggle
 
+![showcase](https://mew.tv/projects/nanowiggle/Nanowiggle.gif)
+
 This is a tiny Windows application for wiggling your mouse.
 
 It does not do anything else.
